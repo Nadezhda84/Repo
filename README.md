@@ -1,2 +1,2 @@
 # secondRepo
-my second repo
+my repo
